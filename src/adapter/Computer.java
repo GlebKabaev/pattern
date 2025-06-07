@@ -1,4 +1,4 @@
-package Adapter;
+package adapter;
 
 public class Computer {
     private Usb usb;

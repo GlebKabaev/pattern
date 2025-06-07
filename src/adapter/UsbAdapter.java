@@ -1,4 +1,4 @@
-package Adapter;
+package adapter;
 
 public class UsbAdapter implements Usb {
     MemoryCard memoryCard;
